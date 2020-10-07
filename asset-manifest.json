@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-manager-frontend/static/css/main.66b05358.chunk.css",
+    "main.js": "/money-manager-frontend/static/js/main.ab1a2f00.chunk.js",
+    "main.js.map": "/money-manager-frontend/static/js/main.ab1a2f00.chunk.js.map",
+    "runtime-main.js": "/money-manager-frontend/static/js/runtime-main.a43ae6f7.js",
+    "runtime-main.js.map": "/money-manager-frontend/static/js/runtime-main.a43ae6f7.js.map",
+    "static/js/2.13eb807c.chunk.js": "/money-manager-frontend/static/js/2.13eb807c.chunk.js",
+    "static/js/2.13eb807c.chunk.js.map": "/money-manager-frontend/static/js/2.13eb807c.chunk.js.map",
+    "index.html": "/money-manager-frontend/index.html",
+    "precache-manifest.e403e3014cc34c24aff737068507e727.js": "/money-manager-frontend/precache-manifest.e403e3014cc34c24aff737068507e727.js",
+    "service-worker.js": "/money-manager-frontend/service-worker.js",
+    "static/css/main.66b05358.chunk.css.map": "/money-manager-frontend/static/css/main.66b05358.chunk.css.map",
+    "static/js/2.13eb807c.chunk.js.LICENSE.txt": "/money-manager-frontend/static/js/2.13eb807c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43ae6f7.js",
+    "static/js/2.13eb807c.chunk.js",
+    "static/css/main.66b05358.chunk.css",
+    "static/js/main.ab1a2f00.chunk.js"
+  ]
+}
