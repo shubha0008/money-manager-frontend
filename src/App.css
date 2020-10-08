@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #298848;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -55,7 +55,7 @@ h4 {
 }
 
 .inc-exp-container > div:first-of-type {
-  border-right: 1px solid #dedede;
+  border-right: 1px solid #1c7c99;
 }
 
 .money {
